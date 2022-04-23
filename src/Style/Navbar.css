@@ -1,0 +1,96 @@
+.Navbar1{
+	max-width: 100%;
+	height:7%;
+	border:0px solid black;
+	padding:1% 2% 1% 4%;
+	display:flex;
+	gap:2%;
+	font-size:0.9rem;
+	color:rgb(255, 252, 252);
+	background-color:rgb(205, 11, 92)
+}
+
+.Navbar2{
+	max-width: 100%;
+	height:7%;
+	border:0px solid black;
+	padding: 1% 1% 1% 4%;
+	display:flex;
+	gap:2%;
+	font-size:0.9rem;
+	color:rgb(244, 242, 242);
+	background-color: rgb(215, 15, 39);
+	
+}
+
+.Navbar3{
+	max-width: 100%;
+	height:7%;
+	border:0px solid black;
+	padding: 1% 2% 1% 4%;
+	display:flex;
+	gap:0%;
+	font-size:0.9rem;
+	color:rgb(152, 152, 152);
+	
+}
+.end{
+	margin-left:40%;
+}
+.nv1{
+	color:#ff7035
+}
+#img11{
+	height: 90%;
+	width: 55%;
+ 
+  border:0px solid black;
+}
+#img11 > img
+{
+	height: 50%;
+	width: 50%;
+	border:0px solid black;
+}
+.input{
+	border:0px solid black;
+	width:100%;
+	
+	
+	
+}
+.input > input{
+	border:0px solid black;
+	width:120%;
+	height: 90%;
+	background-color:rgb(245, 245, 245);
+	font-size:16px;
+	padding:8px;
+	
+	
+
+}
+input:focus{
+    outline: none;
+}
+
+#nbicons{
+  margin-left:140px;
+  color:rgb(121, 104, 104);
+  font-weight:500;
+  border:1.5px solid rgb(103, 96, 96);
+  padding: 5px 5px 5px 5px;
+  border-radius: 20px;
+}
+.mt{
+	margin-top:0px;
+}
+
+
+.div3 {
+	
+	display: block;
+	overflow: auto;
+
+	
+  }
