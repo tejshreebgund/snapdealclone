@@ -28,7 +28,7 @@ const ProductPage = () => {
   const [page, setPage] = useState(1);
   const fetchData = async () => {
     return axios({
-      url: `http://localhost:8000/mens?_page=${page}&_limit=10`,
+      url: `https://snapdealabc.herokuapp.com/mens?_page=${page}&_limit=10`,
       method: 'GET',
       params: {},
     })
